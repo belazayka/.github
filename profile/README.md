@@ -1,74 +1,63 @@
 # BelaZayka
 
-![BelaZayka Header](https://www.belazayka.com/_app/immutable/assets/bg.Hy2zCPbB.avif)
+![BelaZayka — Agentic AI with onchain financial rails](./header.png)
 
-BelaZayka is where **AI meets Blockchain brilliance**, combining cutting-edge technology to craft transformative digital solutions. Our mission is to guide businesses confidently into the future with innovative and intelligent systems.
+**Agents that act. And transact.**
 
-## 🚀 Our Vision
-To empower businesses with innovative digital solutions that shape the future of technology.
+BelaZayka is a Swiss consultancy building agentic AI — autonomous systems that do real work inside real organisations — and, where agents need economic agency, the onchain rails that let them hold budgets, pay for what they use and settle value.
 
-## 🎯 Our Mission
-To bridge the gap between blockchain and AI, creating secure, intelligent, and user-friendly digital products for the modern world.
+Agentic AI is easy to demonstrate and hard to depend on. We close that gap with engineering discipline: clear scope, measurable behaviour, and limits that hold when the agent meets real users and real money.
 
 ---
 
-## 🛠️ Services We Offer
+## Expertise
 
-### **AI Agents**
-Harness the power of artificial intelligence to automate processes, enhance decision-making, and drive smarter business strategies.
-- **Capabilities**:
-  - Large Language Models (LLMs)
-  - Prompt Engineering
-  - Large Vision Models (LVMs)
-  - Retrieval-Augmented Generation (RAG)
-  - ReAct frameworks
-  - Model Evaluation
+**Agentic systems & orchestration**
+Multi-step agents that plan, call tools and hand off to people at the right moment — designed around how your organisation actually operates.
+`Tool use` `Planning` `Multi-agent` `Human oversight`
 
----
+**Agent payments & onchain settlement**
+Programmable accounts, spend policy enforced in code and settlement that clears in seconds — so an agent can transact as an accountable economic actor.
+`Programmable wallets` `Spend limits` `Stablecoin rails` `Onchain audit trail`
 
-### **Smart Contracts**
-Secure and efficient blockchain-powered solutions that form the foundation of a decentralized future.
-- **Capabilities**:
-  - Ethereum Blockchain
-  - Decentralized Applications (dApps)
-  - Decentralized Finance (DeFi)
-  - Decentralized Autonomous Organizations (DAOs)
-  - Tokenization
-  - Self-Sovereign Identity
+**Generative AI & machine learning**
+LLM applications, retrieval, evaluation pipelines and the models and decision systems underneath them — built to hold up under production traffic.
+`RAG` `Evaluation` `Fine-tuning` `Decision systems`
+
+**AI architecture, LLMOps & governance**
+Secure foundations, observability, cost control and delivery practice that keep autonomous systems accountable once they are live.
+`Observability` `Guardrails` `Security` `Cost control`
+
+**Smart contracts & onchain infrastructure**
+Contracts, tokenisation and decentralised infrastructure — as the financial plumbing beneath your agents, or as a system in its own right.
+`Solidity` `Account abstraction` `Tokenisation` `Self-sovereign identity`
 
 ---
 
-### **Web Applications**
-Modern, responsive web applications designed for seamless user experiences.
-- **Capabilities**:
-  - User Interfaces (UI)
-  - Application Programming Interfaces (API)
-  - User Experience (UX) Design
-  - Database Management
-  - Continuous Integration (CI) / Continuous Deployment (CD)
+## An agent without a budget is just a chatbot
+
+Genuine autonomy means an agent can commit resources — buy the data it needs, pay for the compute it consumes, settle with another service — **inside limits you set and can prove**.
+
+| Identity | Authority | Settlement |
+| --- | --- | --- |
+| Every agent gets its own account, keys and provable history, so an action attributes to an actor. | Limits, allowlists and approval thresholds enforced by the contract rather than by a prompt. | Value moving between agents, services and people in seconds, with a receipt that reconciles itself. |
 
 ---
 
-## 🌟 About Us
-BelaZayka merges **blockchain technology** with **artificial intelligence** to create secure, scalable, and intelligent digital products. Our focus lies in developing AI-powered agents, reliable smart contracts, and responsive web applications that help businesses thrive in an ever-evolving technological landscape.
+## Approach
+
+1. **Frame** — Define the decision, workflow or constraint that matters, and exactly what the agent is allowed to do, before choosing a model.
+2. **Prove** — Build a narrow prototype and test it against evidence: evaluations, failure modes and real cost. Not a polished demo.
+3. **Engineer** — Turn what works into a secure, observable system with enforced limits that your team can operate, audit and extend.
 
 ---
 
-## 💡 What We Offer
-1. **AI Agents**: Cutting-edge machine learning solutions tailored for your needs.
-2. **Smart Contracts**: Blockchain-based technology for decentralized and secure operations.
-3. **Web Applications**: Scalable and seamless solutions integrating modern UI/UX with robust APIs and database management.
+## Contact
 
----
+Have a difficult AI problem? Whether it is an agent that has to act in the real world, or a system that has to be trusted with money, we are glad to look at it with you.
 
-## 🌐 Connect With Us
-- [GitHub](https://github.com/belazayka)
-- [YouTube](https://www.youtube.com/@CognoKratos)
-- [X (formerly Twitter)](https://x.com/PhiSkills)
+- Website — [belazayka.com](https://www.belazayka.com)
+- Email — [info@zayka.dev](mailto:info@zayka.dev)
+- LinkedIn — [linkedin.com/company/belazayka](https://linkedin.com/company/belazayka)
 
----
-
-## 📞 Follow the White Rabbit
-Unlock the full potential of technology with BelaZayka. Let us help you navigate the future with confidence, creativity, and precision.
-
-**© 2024 BelaZayka, Inc. All rights reserved.**
+<sub>© 2026 BelaZayka GmbH · Wädenswil, Switzerland · CHE-362.190.661</sub>
