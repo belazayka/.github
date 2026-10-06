@@ -52,6 +52,18 @@ Genuine autonomy means an agent can commit resources — buy the data it needs, 
 
 ---
 
+## Open source: CognoKratos
+
+[CognoKratos](https://github.com/cognokratos) is BelaZayka's open-source engineering and education initiative: runnable reference architectures for increasingly consequential agentic systems. Its five projects cover production agent engineering, durable agent runtimes, governed decisions, cryptographic capability and agentic financial workflows. In each, the model is treated as a probabilistic component, and where authority matters it is enforced outside the model.
+
+**[The CognoKratos Book — Engineering Agentic Systems](https://book.cognokratos.com/)** is the structured learning companion to those projects. It follows one question from a bounded production agent to a financial workflow in which an agent may propose an invoice but only a human can approve it. Its lessons are grounded in code you can run at pinned revisions, and it states plainly what each project does not do.
+
+The projects are reference architectures for learning, not products: they are not audited or certified, and none of them moves money. When your team needs these patterns applied to its own systems, that is the work we do.
+
+[Read the book](https://book.cognokratos.com/) · [cognokratos.com](https://cognokratos.com) · [github.com/cognokratos](https://github.com/cognokratos)
+
+---
+
 ## Contact
 
 Have a difficult AI problem? Whether it is an agent that has to act in the real world, or a system that has to be trusted with money, we are glad to look at it with you.
